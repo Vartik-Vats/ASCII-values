@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T05:35:02.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" version="17.4.3" etag="4DmDSAcR7jRrEUB62GgE" type="github"><diagram id="VX-QtaxJA5C-iaeC_pzX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-12T06:02:09.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="e2C-P4nycemPnHiA640g" version="17.4.3" type="github">
+  <diagram id="VX-QtaxJA5C-iaeC_pzX" name="Page-1">
+    <mxGraphModel dx="830" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="XmW1Uu2o_8GUr221TY8d-3" target="XmW1Uu2o_8GUr221TY8d-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;HOW&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="150" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="XmW1Uu2o_8GUr221TY8d-4" target="XmW1Uu2o_8GUr221TY8d-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;WHY&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="XmW1Uu2o_8GUr221TY8d-5" target="XmW1Uu2o_8GUr221TY8d-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-5" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;WHEN&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="XmW1Uu2o_8GUr221TY8d-6" target="XmW1Uu2o_8GUr221TY8d-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;WHO&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="XmW1Uu2o_8GUr221TY8d-7" target="XmW1Uu2o_8GUr221TY8d-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-7" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;WHERE&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="XmW1Uu2o_8GUr221TY8d-8" target="XmW1Uu2o_8GUr221TY8d-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;WHAT&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-9" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;div style=&quot;background-color: rgb(30 , 30 , 30) ; color: rgb(212 , 212 , 212)&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Only the user has access to the phone number and password. That person only has access to the account.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(30 , 30 , 30) ; color: rgb(212 , 212 , 212)&quot;&gt;&lt;span style=&quot;color: #569cd6 ; font-weight: bold&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-10" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;The user must first register in the account, and then, using the user name, phone number and password, the user can perform balance inquiries, fund transfers, and so on.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="760" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-11" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;b style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Online banking systems are important because these days there are many people who are not able to go to their bank, so it&#39;s easy for those users to do these tasks using their phone or laptop.&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="620" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-12" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;The user can access their account at any time by entering their name, phone number and password, and then use all of the functions at any time.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="480" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-13" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;Users can use this application to transfer money to another account in the same bank, add funds, check balances, and more.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XmW1Uu2o_8GUr221TY8d-14" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 19px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;In this application, users are able to sign up and sign in into an account and perform different functions, just like in a bank.&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="410" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
