@@ -1,13 +1,13 @@
 #include "ascii_value.h"
 #include "add.h"
 
-int add(char a[])
+int add(char *x)
 {
-	int s=0,i=0;
-    	while(a[i])
+	int sum=0,i=0;
+    	while(x[i])
     	{
-         	a[i++];
-         	s=s+a[i];
+         	x[i++];
+         	sum=sum+x[i];
     	}
-    	printf("\nSUM = %d",s);
+    	printf("\nSUM = %x",sum);
 }
